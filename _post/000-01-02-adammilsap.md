@@ -3,4 +3,4 @@ layout: slide
 title: "Welcome to our second slide"
 ...
 Getting the hang of this github stuff
-\(^_^')/
+\(^_^')/|
